@@ -15,4 +15,4 @@ We also combine all the input that the user has entered in the program into a li
 while using variables from the list.
 
 It will look something like the this:
-"Thank you for answering [name], it is interesting to know what [age] year olds are reading [book] by [author]."
+"Thank you for answering [name], it is interesting to know that [age] year olds are reading [book] by [author]."
