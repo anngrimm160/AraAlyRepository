@@ -1,7 +1,7 @@
 # hello-world
 Skills Lab 6: Version Control
 
-_Ara and Aly's Lab 6_
+_Ara Narayan and Aly's Lab 6_
 
 Our program: 
 Our program gets the input of a user's name and their age. 
