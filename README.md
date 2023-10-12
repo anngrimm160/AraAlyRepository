@@ -24,3 +24,4 @@ It will look something like the this:
 ## How to Use it
 
 ## Why We Chose this License 
+We chose the unlicense because it allows for all use (any user may use it, without restriction) and it includes liability and warrenty protection. At the same time, this lisence includes a statment that the program offers no gaurentees to people who might use it - protecting us should any issues arrise.
