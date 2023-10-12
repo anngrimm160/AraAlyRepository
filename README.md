@@ -1,9 +1,9 @@
 # Version Control LAB
-Skills Lab 6: Version Control
+Skills Lab 7: Plain text
 
-_Ara Narayan and Alex Yarashevich Lab 6_
+_Ara Narayan and Alex Yarashevich Lab 7_
 
-Our program: 
+## Our program: 
 Our program gets the input of a user's name and their age. 
 Then the program prints "Your name is [the user's name] and are [user's age] years old!"
 
@@ -17,8 +17,10 @@ while using variables from the list.
 It will look something like the this:
 "Thank you for answering [name], it is interesting to know that [age] year olds are reading [book] by [author]."
 
-// About the program
-// How to Contribute
-// How to Use it
-// Python Markdown for code of Conduct (Jupyter)
-// Lisence Markdown (Jupyter)
+
+## How to Contribute
+ {Explain how to contribute}
+
+## How to Use it
+
+## Why We Chose this License 
