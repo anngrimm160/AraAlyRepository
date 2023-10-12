@@ -4,6 +4,7 @@ Skills Lab 7: Plain text
 _Ara Narayan and Alex Yarashevich Lab 7_
 
 ## Our program: 
+(Written for Lab 6)
 Our program gets the input of a user's name and their age. 
 Then the program prints "Your name is [the user's name] and are [user's age] years old!"
 
@@ -16,6 +17,8 @@ while using variables from the list.
 
 It will look something like the this:
 "Thank you for answering [name], it is interesting to know that [age] year olds are reading [book] by [author]."
+
+(Added for Lab 7)
 
 ## How to Contribute
 _Step 1: Clone the Repository_ 
