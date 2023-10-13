@@ -20,6 +20,9 @@ It will look something like the this:
 "Thank you for answering [name], it is interesting to know that [age] year olds are reading [book] by [author]."
 
 (Added for Lab 7)
+The program prints three more empty lines, and then prompts the user by asking "Do you have a favorite artist? (Y/N): ".
+
+Then, using an if/else statement the program either asks who the artist is and prints "I see [the user's name]! You like the author [the author] and the artist [the artist's name]."
 
 ## How to Contribute
 _Step 1: Clone the Repository_: 
