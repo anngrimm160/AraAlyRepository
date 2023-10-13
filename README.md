@@ -35,4 +35,4 @@ _Step 4: Push changes to the GitHub Repository_:
 Type git push in your terminal or command prompt. Press enter.
 
 ## Why We Chose this License 
-We chose the unlicense because it allows for all use (any user may use it, without restriction) and it includes liability and warrenty protection. At the same time, this lisence includes a statment that the program offers no gaurentees to people who might use it - protecting us should any issues arrise.
+We chose the unlicense because it allows for all use (any user may use it, without restriction). At the same time, this lisence includes a statment that the program offers no gaurentees to people who might use it - protecting us should any issues arrise. While it does not include a liabity or warrenty, we felt our program did not require it.
