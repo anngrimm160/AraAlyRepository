@@ -25,7 +25,7 @@ art= art.upper()
 if (art == "Y"):
   artist = str(input("Who is it?: "))
   print()
-  print("I see,", userName + "! You like the author", authorName, "and the artist", artist)
+  print("I see,", userName + "! You like the author", authorName, "and the artist", artist + ".")
 
 else:
   print("That's okay, perhaps you should visit the museum for inspiration!")
